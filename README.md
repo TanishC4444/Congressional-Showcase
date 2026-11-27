@@ -2,6 +2,13 @@
 
 A static map and gallery of student projects organized by congressional district. This repository is a fork; retain the upstream contribution context when presenting it.
 
+## Get the source
+
+```sh
+git clone --filter=blob:none https://github.com/TanishC4444/Congressional-Showcase.git
+cd Congressional-Showcase
+```
+
 ## Preview
 
 ```sh
